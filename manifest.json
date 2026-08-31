@@ -1,0 +1,116 @@
+{
+  "schema": "stone-cognitive-runtime-public-draft-package-v0",
+  "id": "stone-cognitive-runtime-public-draft-v0-20260831",
+  "createdAt": "2026-08-31T11:55:11.250Z",
+  "status": "public-release-ready",
+  "publicationBlockers": [],
+  "excludes": [
+    "Dock server",
+    "resident memory",
+    "live state",
+    "browser data",
+    "credentials",
+    "account data",
+    "model weights",
+    "private cloud",
+    "game worlds",
+    "machine-specific configuration"
+  ],
+  "files": [
+    {
+      "path": "runtime/cognitive-runtime.js",
+      "bytes": 7635,
+      "sha256": "6734b092f6dcb20348d5df3d435dc0de0902c37b5d72e1b0b27a5711266488bb"
+    },
+    {
+      "path": "tools/state-capsule.js",
+      "bytes": 5196,
+      "sha256": "38d1903facf8c7383b538aca4b8f24a63b049fefeac3052a5f0916c000d9223a"
+    },
+    {
+      "path": "tools/pi-topology-compression.js",
+      "bytes": 11171,
+      "sha256": "edc8f00ae2188cf2ad2a686e811e632f43e974385aac97090f070429d71a89db"
+    },
+    {
+      "path": "tools/bayesian-experience-weight.js",
+      "bytes": 5945,
+      "sha256": "0eaa9097da2693197556cce3ae1685bceba537c4e213768f13dd1f0c3158d82c"
+    },
+    {
+      "path": "tools/test-cognitive-runtime-core.js",
+      "bytes": 2416,
+      "sha256": "4bd19936eeaa6e417630593c0e7b0d5287b1e4086244a87ceb07dbf3f44df32f"
+    },
+    {
+      "path": "tools/test-cognitive-runtime-isolation.js",
+      "bytes": 1439,
+      "sha256": "42c137eebf62208b3167951dbac09fb03cd43fae51aae9a70cf8645a5dd262b5"
+    },
+    {
+      "path": "tools/test-cognitive-runtime-real-task.js",
+      "bytes": 5280,
+      "sha256": "1af8d618c06f7fbab420a013c90cc5039fdddaf755679d33df2f9988aafd9938"
+    },
+    {
+      "path": "docs/cognitive-runtime-api-v0.md",
+      "bytes": 2464,
+      "sha256": "00c5c8396027d4f026bf1efb8f92e0999547130481da42fd9058cfed24b3dcf8"
+    },
+    {
+      "path": "docs/cognitive-runtime-boundary-readiness-v0.md",
+      "bytes": 3024,
+      "sha256": "82e21e220e77dc246a155846411e495a1c70e2fdc4ad275306f538d1d139bc27"
+    },
+    {
+      "path": "docs/cognitive-runtime-core-invariants-v0.md",
+      "bytes": 1100,
+      "sha256": "ee4831474cf4e4db32a83d35edd2b7369faec1696ecb014944b1fc5f496ebf4c"
+    },
+    {
+      "path": "docs/cognitive-runtime-integration-v0.md",
+      "bytes": 2450,
+      "sha256": "89e2d67074c81dfd793509334235cef9a1734bdfa4141c682cb36b55f3a6bcf6"
+    },
+    {
+      "path": "docs/cognitive-runtime-measurement-v0.md",
+      "bytes": 3061,
+      "sha256": "6fecbecf07dd062f06a099cd237c6f18aaf2bd91ff4ea662c333f41faa8c3f62"
+    },
+    {
+      "path": "docs/linux-runtime-portability-v0.md",
+      "bytes": 1128,
+      "sha256": "79d5e8328717d69092b2fc569e0b944f6923ce94b244090f9a0724a41355361e"
+    },
+    {
+      "path": "docs/state-capsule-v0.1.md",
+      "bytes": 2867,
+      "sha256": "1caaa08d24a4dd17ce62cbb2d374e6deec3ba1145c97734aeff1b855ad5cb8b1"
+    },
+    {
+      "path": "docs/pi-map-topology-compression-v0.1.md",
+      "bytes": 5388,
+      "sha256": "e89d3685f71602472b6b62fb0de4ef1948ac29251f20f368fae892870caf3872"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2407,
+      "sha256": "a51714d6b95968264e43089f06758b977058dbe5a642750ba82b56f54a86c2c7"
+    },
+    {
+      "path": "package.json",
+      "bytes": 611,
+      "sha256": "36cc879d924cb8211e738ed015f900ec88cdea03f97a543712f87ef9b49f8ae5"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1078,
+      "sha256": "024125d98b11d39d92b4df1d4a220ffe646232f5928c86522771a0ac16c08a78"
+    },
+    {
+      "path": "MUD-SECT.md",
+      "bytes": 3183,
+      "sha256": "32a7d94a6457c5ea7f10863c8e31f8bf840f0f1a772a40771a22fca42b05ec46"
+    }
+  ]
+}
