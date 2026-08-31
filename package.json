@@ -1,0 +1,22 @@
+{
+  "name": "stone-cognitive-runtime",
+  "version": "0.0.0-public-draft",
+  "private": false,
+  "type": "module",
+  "description": "Public draft of a small continuity runtime with state capsules, topology restore, and manual resume contracts.",
+  "scripts": {
+    "test": "node tools/test-cognitive-runtime-core.js && node tools/test-cognitive-runtime-isolation.js && node tools/test-cognitive-runtime-real-task.js"
+  },
+  "keywords": [
+    "continuity",
+    "state-capsule",
+    "runtime",
+    "restore",
+    "agent-tools"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
