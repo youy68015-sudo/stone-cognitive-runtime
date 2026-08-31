@@ -1,7 +1,7 @@
 {
   "schema": "stone-cognitive-runtime-public-draft-package-v0",
   "id": "stone-cognitive-runtime-public-draft-v0-20260831",
-  "createdAt": "2026-08-31T12:34:25.400Z",
+  "createdAt": "2026-08-31T13:51:17.577Z",
   "status": "public-release-ready",
   "publicationBlockers": [],
   "excludes": [
@@ -94,8 +94,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2424,
-      "sha256": "230c737c022cd0031267eba5e8346def9a19bc1106b8efaaf9c3773dadf33e91"
+      "bytes": 2466,
+      "sha256": "54586682f045d628edf7d0a48581396a857aa5af9268f6c028875d7b619bf9a5"
     },
     {
       "path": "package.json",

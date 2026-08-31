@@ -94,11 +94,12 @@ The informal research culture behind this draft is documented in
 Short version: keep the core small, verifiable, and hard to kill; let everything
 else grow as replaceable structures around it.
 
-## Support / 香火箱
+## Support / 功德箱
 
 Donation and sponsorship links are not configured yet.
 
 For now, the best support is to test the runtime, break it carefully, report
-clear boundaries, and contribute small reproducible experiments.
+clear boundaries, and contribute small reproducible experiments. That is enough
+merit for the first stone.
 
 See `manifest.json` for file hashes.
