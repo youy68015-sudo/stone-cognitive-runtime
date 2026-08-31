@@ -86,7 +86,7 @@ console.log(await runtime.resume("example-task"));
 Restoring a capsule returns state and a manual resume contract. It does not
 automatically execute future work.
 
-## Mud Sect
+## The Mud Sect · 爛泥宗
 
 The informal research culture behind this draft is documented in
 `MUD-SECT.md`.

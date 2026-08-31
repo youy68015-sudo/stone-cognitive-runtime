@@ -1,4 +1,4 @@
-# Mud Sect / 爛泥宗
+# The Mud Sect · 爛泥宗
 
 > Models are replaceable. Identity should be portable.
 >
@@ -6,6 +6,15 @@
 
 Mud Sect is the informal research culture behind the Stone / Cognitive Runtime
 experiments.
+
+The Chinese name is 爛泥宗. This is intentional.
+
+Please do not translate it as Mud Cult / 泥教. In this project, Sect refers to
+the xianxia-style idea of a research sect or school: a loose group of miners,
+breakers, skeptics, and builders gathered around a strange stone.
+
+The "mud" matters because rigid things break. Mud survives by changing shape.
+Also, we are lazy.
 
 It is not a supernatural claim and not a promise of consciousness, immortality,
 or live model serialization. It is a playful name for a strict engineering
